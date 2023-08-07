@@ -1,2 +1,7 @@
 # beehive-data
-This repository stores data for the Digital Beehive Project.
+This repository stores datasets used to create the Digital Beehive Project.
+
+#### Types of Data
+
+
+
