@@ -5,7 +5,7 @@ This repository stores datasets used to create the Digital Beehive Project.
 
 - Raw data from Mirador SimpleAnnotationServer
   - [N-Quad data](https://www.w3.org/TR/n-quads/)
-  - beehive-annotations.csv
+  - CSV output of N-Quad data
 - Parsed data output from Beehive annotations Python scripts
   
  
