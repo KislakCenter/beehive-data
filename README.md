@@ -16,8 +16,8 @@ This repository stores datasets used to create the Digital Beehive Project.
   - CSV of Beehive page numbers assigned by Pastorius
     -  This csv is a record of the page numbers that Pastorius wrote on the manuscript. These page numbers were determined by project
        staff to be newer page numbers, as opposed to a set of older page numbers written on the manuscript by Pastorius. For a more
-       detailed description of page numbers written by both Pastorius and others see this [blog post]
-       (https://kislakcenter.github.io/digital-beehive/2020/04/24/problematic-pagination/).
+       detailed description of page numbers written by both Pastorius and others see this
+       [blog post](https://kislakcenter.github.io/digital-beehive/2020/04/24/problematic-pagination/).
   - CSVs listing any sorting discrepancies
   - CSVs with any corrections to cross-references or "add" and "see" references in the index
   - CSVs listing any issues occurring in entries
