@@ -8,7 +8,8 @@ This repository stores datasets used to create the Digital Beehive Project.
   - CSV output of raw N-Quad data
 - Supporting material
 
-  The csvs included here provide information that is supplemental to the annotations. This information was provided by project staff
+  The csvs included [here](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data/supporting_material)
+  provide information that is supplemental to the annotations. This information was provided by project staff
   working with the manuscript.
 
   - CSV of Beehive page numbers assigned by Pastorius
