@@ -3,8 +3,9 @@ This repository stores datasets used to create the Digital Beehive Project.
 
 ### Types of Data
 
-## [Annotations data](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data/annotations_data) from
-  Mirador SimpleAnnotationServer
+## [Annotations data](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data/annotations_data) 
+  The data in this folder include the raw data from Mirador SimpleAnnotationServer and the data presented in csv format.
+  
   - [N-Quad data](https://www.w3.org/TR/n-quads/)
   - CSV output of raw N-Quad data
     
