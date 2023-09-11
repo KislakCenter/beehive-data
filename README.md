@@ -1,4 +1,5 @@
 # beehive-data
+
 This repository stores datasets used to create the Digital Beehive Project.
 
 ### [Annotations data](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data/annotations_data) 
@@ -21,7 +22,4 @@ This repository stores datasets used to create the Digital Beehive Project.
   - CSVs listing any sorting discrepancies
   - CSVs with any corrections to cross-references or "add" and "see" references in the index
   - CSVs listing any issues occurring in entries
-
-
-
 
