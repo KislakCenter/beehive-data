@@ -2,14 +2,30 @@
 
 This repository stores datasets used to create the Digital Beehive Project.
 
-### [Annotations data](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data/annotations_data) 
+### [Annotations data](https://github.com/KislakCenter/beehive-data/tree/main/) 
   
-  The data in this folder include the raw data from Mirador SimpleAnnotationServer and the data presented in csv format.
+  The data in the main folder include the raw data from Mirador SimpleAnnotationServer and the data presented in the more user-friendly csv and json formats.
   
   - [N-Quad data](https://www.w3.org/TR/n-quads/)
+    - [beehive-annotations.nq](https://github.com/KislakCenter/beehive-data/tree/main/beehive-annotations.nq)
   - CSV output of raw N-Quad data
+    - [beehive-annotations.csv](https://github.com/KislakCenter/beehive-data/tree/main/beehive-annotations.csv)
+  - JSON output
+      - [beehive-annotations.json](https://github.com/KislakCenter/beehive-data/tree/main/beehive-annotations.json)
+   
+### [IIIF manifests](https://github.com/KislakCenter/beehive-data/tree/main/iiif_manifests)
+
+  This folder contains iiif manifests of images for all three volumes of the Beehive.
+
+  - Alvearium, Volume 1
+    - [beehive_vol1_manifest.json](https://github.com/KislakCenter/beehive-data/tree/main/iiif_manifests/beehive_vol1_manifest.json)
+  - Alvearium, Volume 2
+    - [beehive_vol2_manifest.json](https://github.com/KislakCenter/beehive-data/tree/main/iiif_manifests/beehive_vol2_manifest.json)
+  - Octavo Index
+    - [beehive_vol3_manifest.json](https://github.com/KislakCenter/beehive-data/tree/main/iiif_manifests/beehive_vol3_manifest.json)   
+
     
-### [Supporting material](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data/supporting_material)
+### [Supplemental data](https://github.com/KislakCenter/beehive-data/tree/main/supplemental_data)
 
   The csvs included in this folder provide information that is supplemental to the annotations. This information was documented 
   and updated by project staff working with the manuscript.
